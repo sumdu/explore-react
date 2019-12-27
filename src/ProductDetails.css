@@ -1,0 +1,14 @@
+.product-deatils-container {
+  padding-left: 30px;
+}
+
+.product-details-grid {
+  display: grid;
+  grid-column-gap: 5px;
+  grid-row-gap: 6px;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+
+.product-details-grid input {
+  width: 100px;
+}
